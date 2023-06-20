@@ -1,0 +1,12 @@
+.box{
+    
+    width: 400px;
+    height: 200px;
+    background-color: azure;
+    margin: auto;
+    margin-top:11%;
+    border-style: dashed;
+}
+body{
+    background-color: blue;
+}
